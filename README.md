@@ -35,7 +35,7 @@ Built with **smooth animations, satisfying SFX, and progressive difficulty**, Fo
 <h2 id="download">📥 Download the APK</h2>
 
 <p>
-  <a href="YOUR_APK_LINK_HERE">
+  <a href="https://github.com/MuhammadUmar-Hashmi/Focus-Fall/releases">
     <img src="https://img.shields.io/badge/Download_APK-Focus_Fall-blue?style=for-the-badge" />
   </a>
 </p>
