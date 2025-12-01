@@ -124,7 +124,7 @@ This game is developed by <strong>Muhammad Umar</strong> — Software Engineerin
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/muhammad-umar-nuces">
+  <a href="https://www.linkedin.com/in/muhammad-umar-nuces" target= "blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
